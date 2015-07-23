@@ -1,7 +1,7 @@
 # SparkBlitzSyntax
 ###### © by [Spark Fountain](http://sparkfountain.de/), 2013 - 2015
 
-*Bitte beachte, dass dieses Dokument noch sehr unvollständig ist und kontinuierlich aktualisiert wird.
+*Bitte beachte, dass dieses Dokument noch sehr unvollständig ist und kontinuierlich aktualisiert wird.*
 
 ## Herangehensweise
 Bei **BlitzBasic** handelt es sich - was eindeutig am Namen erkennbar ist - um einen speziellen Dialekt
