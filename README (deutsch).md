@@ -4,11 +4,11 @@
 *Bitte beachte, dass dieses Dokument noch sehr unvollständig ist und kontinuierlich aktualisiert wird.*
 
 ## Herangehensweise
-Bei **BlitzBasic** handelt es sich - was eindeutig am Namen erkennbar ist - um einen speziellen Dialekt
-der Programmiersprache **BASIC** (englisch *B*eginner’s *A*ll-purpose *S*ymbolic *I*nstruction *C*ode).
-Diese anfängerfreundliche Sprache zeichnet sich durch einige Merkmale aus. Bedeutend sind unter anderem
-die häufig verwendeten "Einzeiler", also Befehle, die lediglich eine Codezeile zur Deklarierung benötigen.
-In anderen Sprachen wie **Java**, **C** oder **JavaScript** gibt es hingegen Konstrukte, die über viele
+Bei *BlitzBasic* handelt es sich - was eindeutig am Namen erkennbar ist - um einen speziellen Dialekt
+der Programmiersprache **BASIC** (englisch **B**eginner’s **A**ll-purpose **S**ymbolic **I**nstruction 
+**C**ode). Diese anfängerfreundliche Sprache zeichnet sich durch einige Merkmale aus. Bedeutend sind unter 
+anderem die häufig verwendeten "Einzeiler", also Befehle, die lediglich eine Codezeile zur Deklarierung 
+benötigen. In anderen Sprachen wie *Java*, *C* oder *JavaScript* gibt es hingegen Konstrukte, die über viele
 Zeilen hinweg gehen - man denke etwa an Klassen- oder Methodendefinitionen, an deren Beginn und Ende sich
 zahlreiche Klammern versammeln und leicht für Unübersichtlichkeit sorgen können. In BASIC gibt stattdessen
 für umfangreichere Codeblöcke meist Kommandos, die den Beginn einleiten und durch das Schlüsselwort **End**
